@@ -187,6 +187,5 @@ Random seeds are set to `42` in the synthetic-data generation, train/test split,
 
 This is an educational synthetic-data project. The synthetic relationships do not represent validated clinical relationships, the dataset is not representative of a real patient population, and the model should not be interpreted as medically validated.
 
-## License
 
-You may add a license appropriate to your intended use. For a personal portfolio project, the MIT License is a common permissive choice.
+
